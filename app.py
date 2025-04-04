@@ -330,7 +330,7 @@ class SECFilingQA:
 # Streamlit App
 def main():
     st.set_page_config(
-        page_title="Enhanced SEC Filing Q&A",
+        page_title="DeepDiligence SEC Filing Q&A",
         page_icon="📊",
         layout="wide"
     )
