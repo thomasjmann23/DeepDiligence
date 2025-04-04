@@ -1,5 +1,5 @@
 """
-Enhanced SEC Filing Q&A App - Using LangChain and Gemini
+DeepDiligence SEC Filing Q&A App - Using LangChain and Gemini
 Features:
 - Default API key
 - Compare multiple reports from the same company
@@ -690,7 +690,7 @@ def main():
     
     # Footer
     st.markdown("---")
-    st.caption("DeepDiligence SEC Filing Analyss App - Using LangChain and Gemini")
+    st.caption("DeepDiligence - SEC Filing Analysis App - Using LangChain and Gemini")
 
 if __name__ == "__main__":
     main()
