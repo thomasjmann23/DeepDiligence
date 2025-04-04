@@ -358,7 +358,7 @@ def main():
         st.session_state.comparison_mode = "single"
         
     # App title and description
-    st.title("Enhanced SEC Filing Question & Answer")
+    st.title("DeepDiligence SEC Filing Analysis")
     st.markdown("""
     This app allows you to ask questions about SEC filings using LangChain and Google's Gemini AI.
     
@@ -690,7 +690,7 @@ def main():
     
     # Footer
     st.markdown("---")
-    st.caption("Enhanced SEC Filing Q&A App - Using LangChain and Gemini")
+    st.caption("DeepDiligence SEC Filing Analyss App - Using LangChain and Gemini")
 
 if __name__ == "__main__":
     main()
