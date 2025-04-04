@@ -21,7 +21,7 @@ KNOWN_CIKS = {
     "320193": "Apple Inc",
     "1652044": "Alphabet Inc (Google)",
     "1326801": "Meta Platforms Inc (Facebook)",
-    "1018724": "Amazon.com Inc",
+    "1018724": "Amazon Inc",
     "789019": "Microsoft Corp",
     "1318605": "Tesla Inc"
 }
