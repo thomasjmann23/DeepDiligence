@@ -30,11 +30,7 @@ This application allows users to query SEC filings using LangChain and Google's 
 
 ## Project Structure
 
-- `main.py` - Streamlit web application and UI components
-- `sec_retriever.py` - SEC API interactions for retrieving filing data
-- `qa_system.py` - LangChain and Gemini integration for Q&A functionality
-- `utils.py` - Utility functions used across the application
-- `full_application_file.py` - Entire app listed under one file (if needed)
+- `app.py` - Streamlit web application, SEC EDGAR API, LangChain and FAISS, Gemini
 
 ## Requirements
 
