@@ -450,8 +450,8 @@ def main():
         
         # User email for SEC.gov
         user_email = st.text_input(
-            "Email for SEC.gov",
-            value="user@example.com",
+            "Email for SEC.gov User-Agent Compliance",
+            value="thomasjmann23@gmail.com",
             help="Required for SEC.gov API access"
         )
         
