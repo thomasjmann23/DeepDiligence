@@ -1,6 +1,6 @@
-# SEC Filing Q&A Application
+# DeepDiligence: SEC Filing Q&A Application
 
-This application allows users to query SEC filings using LangChain and Google's Gemini AI. It provides a user-friendly interface for retrieving, analyzing, and asking questions about SEC filings.
+This application allows users to query SEC filings using LangChain and Google's Gemini AI. It provides a user-friendly interface for retrieving, analyzing, and asking questions about 1 or more SEC filings.
 
 ## Features
 
