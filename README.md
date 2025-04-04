@@ -18,7 +18,7 @@ This application allows users to query SEC filings using LangChain and Google's 
    ```
 3. Run the application:
    ```
-   streamlit run main.py
+   streamlit run app.py
    ```
 
 ## Usage
